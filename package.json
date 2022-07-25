@@ -1,0 +1,13 @@
+{
+  "name": "easy-parser",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "type" :"module",
+  "scripts": {
+    "test": "node helpers_test.js"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC"
+}
